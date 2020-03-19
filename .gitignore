@@ -1,0 +1,10 @@
+/src/main/webapp/WEB-INF/web.xml
+/src/main/webapp/index.jsp
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+/target/
+/spring-rest-postman.iml
